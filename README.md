@@ -10,6 +10,9 @@
 
 * [TensorFlow Probability official examples](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/examples)
 
+  * [Bayesian neural networks on MNIST dataset](https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/bayesian_neural_network.py)
+  * [Bayesian neural networks on CIFAR dataset](https://github.com/tensorflow/probability/blob/80cc5cb33dfe04cb998bfe27ad3680a7a116d8b1/tensorflow_probability/examples/cifar10_bnn.py)
+
 * [A notebook of Bayesian neural networks on tfp by Lingchen Zhu](https://github.com/zhulingchen/tfp-tutorial/blob/master/tfp_bnn.ipynb)
 
 ### Reference:
