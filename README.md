@@ -1,5 +1,7 @@
 # Bayesian Deep Learning
 
+#### A collection of notebooks and examples of Bayesian neural networks for learning purposes.
+
 ### Libraries:
 
 * [TensorFlow Probability: Probabilistic reasoning and statistical analysis in TensorFlow](https://www.tensorflow.org/probability)
