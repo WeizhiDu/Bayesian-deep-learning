@@ -1,12 +1,12 @@
-# Bayesian-deep-learning
+# Bayesian Deep Learning
 
 ### Libraries:
 
-* [Tensorflow Probability: Probabilistic reasoning and statistical analysis in TensorFlow](https://www.tensorflow.org/probability)
+* [TensorFlow Probability: Probabilistic reasoning and statistical analysis in TensorFlow](https://www.tensorflow.org/probability)
 
 ### Resources:
 
-* [Tensorflow Probability official examples](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/examples)
+* [TensorFlow Probability official examples](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/examples)
 
 * [A notebook of Bayesian neural networks on tfp by Lingchen Zhu](https://github.com/zhulingchen/tfp-tutorial/blob/master/tfp_bnn.ipynb)
 
